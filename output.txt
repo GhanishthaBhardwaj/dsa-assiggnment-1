@@ -1,0 +1,64 @@
+Factorial Test Cases:
+Factorial(0) = 1
+Factorial(1) = 1
+Factorial(5) = 120
+Factorial(10) = 3628800
+
+Fibonacci Test Cases:
+
+Simple Fibonacci(5) = 5
+Function Calls (Simple) = 15
+Memoized Fibonacci(5) = 5
+Function Calls (Memoized) = 9
+
+Simple Fibonacci(10) = 55
+Function Calls (Simple) = 177
+Memoized Fibonacci(10) = 55
+Function Calls (Memoized) = 19
+
+Simple Fibonacci(20) = 6765
+Function Calls (Simple) = 21891
+Memoized Fibonacci(20) = 6765
+Function Calls (Memoized) = 39
+
+Simple Fibonacci(30) = 832040
+Function Calls (Simple) = 2692537
+Memoized Fibonacci(30) = 832040
+Function Calls (Memoized) = 59
+
+Tower of Hanoi Test:
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+Total Moves Stored in Stack: 7
+
+Binary Search Test:
+Search 7 -> Index: 3
+Search 1 -> Index: 0
+Search 13 -> Index: 6
+Search 2 -> Index: -1
+Search in empty list: -1
+PS C:\Users\hp\Desktop\assigments\dsa>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
